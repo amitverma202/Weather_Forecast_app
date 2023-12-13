@@ -152,6 +152,7 @@ const WeatherCard = ({ navigation }) => {
     },
     weatherDetails: {
       alignItems: "center",
+      textDecorationStyle: blink
     },
     detailItem: {
       flexDirection: "row",
