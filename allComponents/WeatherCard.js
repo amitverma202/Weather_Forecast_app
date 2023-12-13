@@ -135,10 +135,10 @@ const WeatherCard = ({ navigation }) => {
       marginBottom: 11,
       paddingHorizontal: 10,
       width: "100%",
-      borderRadius: 7, // Rounded corner style for input box
+      borderRadius: 8, // Rounded corner style for input box
     },
     cityName: {
-      fontSize: 23,
+      fontSize: 24,
       fontWeight: "bold",
       textAlign: "center",
       marginBottom: 12,
