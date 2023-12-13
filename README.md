@@ -24,7 +24,7 @@ CLONE THE REPOSITORY
 
 1. Open a terminal window.
 2. Run the following command to clone the repository:
-   git clone "https link"
+   git clone https://github.com/amitverma202/Weather_Forecast_app.git
 3. Navigate to the project directory:
    cd weather-app
 
