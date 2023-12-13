@@ -132,16 +132,16 @@ const WeatherCard = ({ navigation }) => {
       height: 40,
       borderColor: "gray",
       borderWidth: 1,
-      marginBottom: 10,
+      marginBottom: 11,
       paddingHorizontal: 10,
       width: "100%",
-      borderRadius: 8, // Rounded corner style for input box
+      borderRadius: 9, // Rounded corner style for input box
     },
     cityName: {
-      fontSize: 24,
+      fontSize: 25,
       fontWeight: "bold",
       textAlign: "center",
-      marginBottom: 10,
+      marginBottom: 12,
     },
     weatherBox: {
       backgroundColor: "#f5f5f5",
